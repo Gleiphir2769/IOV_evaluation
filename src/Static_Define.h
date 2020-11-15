@@ -1,0 +1,8 @@
+//
+// Created by daqige on 2020/11/15.
+//
+
+#ifndef IOV_EVALUATION_STATIC_DEFINE_H
+#define IOV_EVALUATION_STATIC_DEFINE_H
+
+#endif //IOV_EVALUATION_STATIC_DEFINE_H
